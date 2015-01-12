@@ -1,0 +1,19 @@
+PODS:
+  - DAAttributedStringUtils (0.4)
+
+DEPENDENCIES:
+  - DAAttributedStringUtils (from `https://github.com/dblapps/DAAttributedStringUtils.git`)
+
+EXTERNAL SOURCES:
+  DAAttributedStringUtils:
+    :git: https://github.com/dblapps/DAAttributedStringUtils.git
+
+CHECKOUT OPTIONS:
+  DAAttributedStringUtils:
+    :commit: 8032d779b0162357616e5b6c71cdbdbb85f4bc38
+    :git: https://github.com/dblapps/DAAttributedStringUtils.git
+
+SPEC CHECKSUMS:
+  DAAttributedStringUtils: 275edd33db4ab9adb293923639f9187ce03c8d68
+
+COCOAPODS: 0.35.0
